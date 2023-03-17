@@ -1,0 +1,15 @@
+E:\VS Projects\Repository\bin\Debug\net6.0\RepoLayer.deps.json
+E:\VS Projects\Repository\bin\Debug\net6.0\RepoLayer.dll
+E:\VS Projects\Repository\bin\Debug\net6.0\RepoLayer.pdb
+E:\VS Projects\Repository\bin\Debug\net6.0\DataAccessLayer.dll
+E:\VS Projects\Repository\bin\Debug\net6.0\DataAccessLayer.pdb
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.csproj.AssemblyReference.cache
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.AssemblyInfoInputs.cache
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.AssemblyInfo.cs
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.csproj.CoreCompileInputs.cache
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.csproj.CopyComplete
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.dll
+E:\VS Projects\Repository\obj\Debug\net6.0\refint\RepoLayer.dll
+E:\VS Projects\Repository\obj\Debug\net6.0\RepoLayer.pdb
+E:\VS Projects\Repository\obj\Debug\net6.0\ref\RepoLayer.dll
