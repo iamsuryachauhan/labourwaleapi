@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgYyo2EPjBgE1NLUGo786xI7ijWp9nAFRCvw3F4UMMlAu24fjdR4UPJwX4E/N5OUQ/cHHGnaUoPkNAnppCU+4Q==",
+  "success": true,
+  "projectFilePath": "E:\\VS Projects\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
